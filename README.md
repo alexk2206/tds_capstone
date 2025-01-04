@@ -59,7 +59,7 @@ Below are some questions that snalADDY is interested in, but it is not an exhaus
 * Functionality frontend/dashboard
 * Number of extra questions considered
 
-#### **Final Submissions: **
+#### **Final Submissions:**
 
 * (MUST) submit a runnable notebook that contains all of the code of your project, similar to the style of the lectures
 * (MUST) submit a pdf/word document describing the contents of your project. Please indicate individual contributions, as your performance will be graded individually 
