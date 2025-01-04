@@ -27,7 +27,7 @@ In this project, you are tasked to generate your Question & Answering (QA) datas
 * Don't use the same model for both data generation and evaluation. For example, if you fine-tune model A, then you must use model B (and so on) to evaluate the quality of the dataset
 3. Document your code and final report
 
-#### **Extra Tasks: **
+#### **Extra Tasks:**
 
 Below are some questions that snalADDY is interested in, but it is not an exhaustive list. You can come up with additional tasks that you think they are hard and important:
 
