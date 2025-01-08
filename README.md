@@ -3,6 +3,15 @@ Capstone Project for 'Topics in Data Science'
 
 Project executed by **Alexander Keßler** and **Dominik Schuster**
 
+### To dos for next time
+* Generating a QA-dataset with Gemini -> one sentence as answer (Alex)
+* Generating a QA-dataset vie Huggingface -> one sentence as answer (Domi)
+
+##### How the dataset should look like
+* Multiple (5) contexts per possible combination of answers -> transfer multiple choice into single choice
+* contains entries of Q + context + answer (for multiple choice, convert "old" answer options into new one)
+* At first, concentrate on single/multiple choice
+
 ### The task
 The task is described in the following:
 
