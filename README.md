@@ -9,8 +9,6 @@ The task is described in the following:
 * Deadline for documentation & materials: 02.02.2025
 * Presentation date: 03.02.2025
 
-![Capstone Project image](https://wuecampus.uni-wuerzburg.de/moodle/pluginfile.php/4893180/course/section/764369/image.png)
-
 In this project, you are tasked to generate your Question & Answering (QA) dataset based on the structure of the questionnaires from snapADDY, which you can find in this section. Then, you will develop strategies to evaluate your dataset using pre-trained Q&A models, potentially from HuggingFace. 
 
 #### **Main Tasks:**
