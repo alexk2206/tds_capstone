@@ -3,13 +3,20 @@ Capstone Project for 'Topics in Data Science'
 
 Project executed by **Alexander Keßler** and **Dominik Schuster**
 
+### To dos for next time
+* Generating a QA-dataset with Gemini -> one sentence as answer (Alex)
+* Generating a QA-dataset vie Huggingface -> one sentence as answer (Domi)
+
+##### How the dataset should look like
+* Multiple (5) contexts per possible combination of answers -> transfer multiple choice into single choice
+* contains entries of Q + context + answer (for multiple choice, convert "old" answer options into new one)
+* At first, concentrate on single/multiple choice
+
 ### The task
 The task is described in the following:
 
 * Deadline for documentation & materials: 02.02.2025
 * Presentation date: 03.02.2025
-
-![Capstone Project image](https://wuecampus.uni-wuerzburg.de/moodle/pluginfile.php/4893180/course/section/764369/image.png)
 
 In this project, you are tasked to generate your Question & Answering (QA) dataset based on the structure of the questionnaires from snapADDY, which you can find in this section. Then, you will develop strategies to evaluate your dataset using pre-trained Q&A models, potentially from HuggingFace. 
 
