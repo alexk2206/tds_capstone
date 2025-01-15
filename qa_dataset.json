@@ -1,0 +1,1229 @@
+[
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Adito"
+        ],
+        "context":"Oh, CRM systems?  I use Adito.  It works well for me."
+    },
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Salesforce"
+        ],
+        "context":"Oh, CRM systems? I use Salesforce.  It's pretty good, actually."
+    },
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Close.io"
+        ],
+        "context":"Oh, CRM systems? I use Close.io.  It's pretty good for my needs."
+    },
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "SAP Sales Cloud"
+        ],
+        "context":"Oh, CRM systems? I use SAP Sales Cloud.  It works pretty well for me."
+    },
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "CAS"
+        ],
+        "context":"Oh, a CRM system?  I use CAS. It's pretty straightforward for my needs."
+    },
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Pipedrive"
+        ],
+        "context":"Oh, I use Pipedrive.  It works pretty well for me."
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Distributor"
+        ],
+        "context":"Oh, the customer group?  It's distributors, just one."
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "End User"
+        ],
+        "context":"Oh, it's mostly end users.  I'm dealing directly with them, you know?"
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "R&D"
+        ],
+        "context":"Oh, the customer group?  It's R&D.  Just them, at the moment."
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Architect"
+        ],
+        "context":"Oh, I'm mostly working with architects right now.  They're a great group to work with, very detail-oriented."
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Wholesaler"
+        ],
+        "context":"I mainly work with wholesalers."
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Planner"
+        ],
+        "context":"I'm mostly working with planners right now."
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Consultant"
+        ],
+        "context":"I mainly work with consultants."
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very unsatisfied"
+        ],
+        "context":"Honestly?  I'm pretty dissatisfied.  Things just haven't been right, you know?  My expectations weren't met at all."
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied"
+        ],
+        "context":"Oh, customer satisfaction?  I'd say it's very high.  We've got excellent reviews and 95% of our recent surveys show complete satisfaction."
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Satisfied"
+        ],
+        "context":"I'm seeing really high satisfaction levels;  most customers are very happy."
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Satisfied"
+        ],
+        "context":"Oh, customer satisfaction?  I'd say it's pretty high.  We've got a 92% approval rating this quarter, so I feel pretty good about that."
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Satisfied"
+        ],
+        "context":"I'm seeing high customer satisfaction;  most report being very happy with the product.  We're currently scoring a 4.8 out of 5 stars."
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Unsatisfied"
+        ],
+        "context":"Honestly?  I'm seeing a lot of unsatisfied customers lately.  It's concerning. We're looking at ways to improve that, of course,  but it's a real challenge right now."
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied"
+        ],
+        "context":"Yeah, I'm seeing very high satisfaction levels, actually.  Most customers are rating us 4 or 5 stars.  I'm pretty happy with that."
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very unsatisfied"
+        ],
+        "context":"Honestly?  I'm seeing a lot of very unsatisfied customers lately.  It's concerning.  We're looking at ways to improve things,  but it's a challenge right now."
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Applicant"
+        ],
+        "context":"I'm an applicant."
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "New customer"
+        ],
+        "context":"Oh, they're a new customer, yeah.  First time ordering from us."
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Existing customer"
+        ],
+        "context":"Oh, they're an existing customer.  Been with us for a while now, actually."
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Existing customer"
+        ],
+        "context":"I'm working with an existing customer."
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Existing customer"
+        ],
+        "context":"I'm working with an existing customer."
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Partner"
+        ],
+        "context":"We're a partner."
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "No"
+        ],
+        "context":"No, I haven't given consent for my data to be processed."
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes"
+        ],
+        "context":"Yeah, I gave my consent.  I read through it, understood the implications, and I'm okay with how my data will be used."
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "No"
+        ],
+        "context":"I haven't given consent for any data processing.  No."
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "No"
+        ],
+        "context":"I haven't given consent for any data processing.  No."
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "No"
+        ],
+        "context":"I haven't given consent for any data processing."
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes"
+        ],
+        "context":"I definitely consent to my data being processed."
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Offer"
+        ],
+        "context":"I'm offering a solution; that's the next step."
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Meeting"
+        ],
+        "context":"My next step is a meeting."
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Meeting"
+        ],
+        "context":"Okay, so next, I'm meeting with them."
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Meeting"
+        ],
+        "context":"My next step is a meeting."
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Call"
+        ],
+        "context":"Okay, next I'm calling."
+    },
+    {
+        "question":"Productinterests",
+        "type":"MULTI_SELECT",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "DataQuality"
+        ],
+        "context":"I'm really interested in business cards, data enrichment, visit reports, and data quality.  Those are my main focuses right now."
+    },
+    {
+        "question":"Productinterests",
+        "type":"MULTI_SELECT",
+        "options":[
+
+        ],
+        "context":"Well, I'm really into sustainable products right now,  especially anything with recycled materials.  I also keep an eye out for ethically sourced stuff \u2013  it\u2019s important to me. And of course,  I appreciate good design;  it doesn't have to be expensive to be beautiful."
+    },
+    {
+        "question":"Productinterests",
+        "type":"MULTI_SELECT",
+        "options":[
+            "BusinessCards",
+            "VisitReport"
+        ],
+        "context":"I'm really interested in business cards, you know, for networking.  And also visit reports;  I find them incredibly useful for tracking client interactions."
+    },
+    {
+        "question":"Productinterests",
+        "type":"MULTI_SELECT",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "DataQuality"
+        ],
+        "context":"I'm really interested in business cards,  improving data quality, and data enrichment services.  Those are my top priorities right now."
+    },
+    {
+        "question":"Productinterests",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "context":"I'm really interested in data cleansing and data quality.  Those are two areas I focus on a lot."
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM"
+        ],
+        "context":"I'm really focused on MY-SYSTEM right now.  It's my main interest."
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "context":"I'm really interested in the JTS, the JS EcoLine, the AKW100, and the AX100."
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "AX100"
+        ],
+        "context":"I'm really interested in MY-SYSTEM, Notion, and the AX100."
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Notion",
+            "JTS"
+        ],
+        "context":"I'm really interested in Notion, it's been a game changer for me.  And JTS, too;  I find their product incredibly useful."
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "context":"I'm really interested in MY-SYSTEM, Notion, and a few others.  I'm also looking closely at the JS EcoLine,  the AKW100, and the AX100."
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "JTS",
+            "JS EcoLine"
+        ],
+        "context":"I'm really interested in the JTS and the JS EcoLine products right now."
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Capture trade fair contacts"
+        ],
+        "context":"I'm working on solutions for things like scanning business cards, cleaning up our CRM,  extracting data from emails, and capturing contacts from trade fairs."
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+
+        ],
+        "context":"I'm currently exploring several avenues.  I'm looking at three different approaches,  testing various algorithms, and hoping to find a viable solution within the next 24 hours."
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Extract data from emails"
+        ],
+        "context":"I'm working on solutions for things like scanning business cards and pulling data from emails."
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Capture trade fair contacts"
+        ],
+        "context":"I'm working on a few things right now: scanning business cards, cleaning up our CRM database, and getting all the contact info from the recent trade fair."
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "context":"I'm working on improving CRM data quality,  and I'm also focused on a project to efficiently capture all the contacts we get from trade fairs\u2014it's a lot of data."
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Improve CRM data quality"
+        ],
+        "context":"I'm working on improving CRM data quality.  It's a real challenge, but I'm finding some good solutions."
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "11-15"
+        ],
+        "context":"We usually have a team of between 11 and 15 people, depending on the specific fair."
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-5"
+        ],
+        "context":"We usually have a team of between one and five people, depending on the fair."
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "more than 40"
+        ],
+        "context":"We usually have more than 40 people on the trade fair team.  It varies a bit, of course, depending on the size of the event."
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "31-40"
+        ],
+        "context":"Oh, the team size?  It usually fluctuates, but I'd say we average between 31 and 40 people."
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "6-10"
+        ],
+        "context":"Oh, it varies, but I'd say we usually have between 6 and 10 people on the trade fair team."
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "21-30"
+        ],
+        "context":"We usually have between 21 and 30 people on the trade fair team."
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Public Safety \/ Law Enforcement"
+        ],
+        "context":"I'm in public safety; specifically, law enforcement."
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Industrial"
+        ],
+        "context":"I'm in the industrial sector.  I work with manufacturing and supply chain stuff, mostly."
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Physical Security"
+        ],
+        "context":"I'm in the physical security industry."
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace"
+        ],
+        "context":"I'm in aerospace.  It's a challenging but rewarding field."
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Government"
+        ],
+        "context":"I'm working in the government sector."
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Defense"
+        ],
+        "context":"I'm in the defense industry."
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Network Operators & Infrastructure"
+        ],
+        "context":"I'm in the network operations and infrastructure industry."
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Computers & Networks"
+        ],
+        "context":"I work in computers and networks."
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing"
+        ],
+        "context":"Oh, they're interested in additive manufacturing, specifically things related to 100 of them.  That's what they emphasized."
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "context":"They're mainly interested in advanced manufacturing \u2014 specifically projects like the 300 Advanced Manufacturing initiative.  Also, assembly and joining systems for large components are key areas for them,  numbers 234 and 256. There might be other things, too."
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "Others"
+        ],
+        "context":"They're mainly interested in additive manufacturing, specifically 100% of that, and automation,  a focus on that area, as well as some other things."
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "200 Automation",
+            "300 Advanced Manufacturing"
+        ],
+        "context":"They're mainly interested in automation, specifically projects around 200 automation systems, and also advanced manufacturing processes, focusing on the 300 range."
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "context":"Well, they're primarily interested in additive manufacturing, specifically 100 of it.  Also, automation, assembly systems, and joining systems for larger components are high on their list.  They mentioned \"others,\" too, so there might be some other areas of interest."
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "201-2000"
+        ],
+        "context":"We're a mid-sized company; I'd say somewhere between 201 and 2000 employees."
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "larger than 2000"
+        ],
+        "context":"We're a pretty big company; I'd say over 2,000 employees."
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "11-50"
+        ],
+        "context":"We're a pretty small team, actually.  I'd say we're somewhere between 11 and 50 people."
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "11-50"
+        ],
+        "context":"We're a pretty small company, I'd say between 11 and 50 people."
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "51-200"
+        ],
+        "context":"We're a pretty good-sized team; I'd say somewhere between 51 and 200 people."
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10"
+        ],
+        "context":"We're a small team,  just between 1 and 10 people."
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "201-2000"
+        ],
+        "context":"We're a medium-sized company, I'd say.  Somewhere between 201 and 2000 employees."
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10"
+        ],
+        "context":"We're a small team,  just 1-10 of us."
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Competitor"
+        ],
+        "context":"It's an existing customer;  we've been working with them for over 2 years."
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+
+        ],
+        "context":"It's email, actually.  I prefer that for most things."
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "New customer \/ Prospect"
+        ],
+        "context":"Oh, it's either an existing customer, or a new one \u2013 a prospect, I guess."
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "Competitor"
+        ],
+        "context":"Oh, it's a mix, actually.  We're talking existing customers, some suppliers, and a couple of competitors."
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Press \/ media",
+            "Competitor"
+        ],
+        "context":"It's a press inquiry, actually, from a competitor publication."
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Press \/ media"
+        ],
+        "context":"It's press or media, yeah."
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "context":"It's an existing customer."
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer"
+        ],
+        "context":"Oh, it's an existing customer.  We've worked with them before."
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Email",
+            "Schedule a Visit"
+        ],
+        "context":"I'm planning to send an email, and then I'll schedule a visit to follow up."
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Email",
+            "Phone",
+            "No action"
+        ],
+        "context":"Well, I'm planning to follow up via email, and if I don't hear back, I'll give them a call.  If that doesn't work, then no further action is needed."
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Phone"
+        ],
+        "context":"I'm planning a phone call follow-up."
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Email",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "context":"Well, I'm planning to send an email,  and depending on the response, I might schedule a visit.  If I don't hear back, then no further action is needed."
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "context":"Well, I'm planning a phone call,  and then maybe scheduling a visit if needed.  If not, no further action is necessary."
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit"
+        ],
+        "context":"Well, I'm planning to send an email,  then I'll probably follow up with a phone call, and if needed, I'll schedule a visit."
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Email",
+            "No action"
+        ],
+        "context":"I'm planning to send an email,  but otherwise, no further action is needed."
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+
+        ],
+        "context":"Well, I'm planning a quick email next week to check in, and then a more formal phone call in two weeks to discuss the next steps."
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "High-speed interconnect testing"
+        ],
+        "context":"Right now, I'm really focused on automotive radar target simulation, and  noise figure measurements are also a big interest.  I'm also looking into double-pulse testing and high-speed interconnect testing; those are pretty key for my current projects."
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+
+        ],
+        "context":"Well, I'm really into sustainable clothing right now,  plus anything tech related, especially noise-canceling headphones.  And I've been eyeing a new espresso machine\u2014a 2-group model, maybe."
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Double-Pulse Testing"
+        ],
+        "context":"I'm really focused on automotive radar target simulation right now,  and I also find double-pulse testing quite interesting."
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "High-speed interconnect testing"
+        ],
+        "context":"I'm really interested in automotive radar target simulation,  noise figure measurements, and high-speed interconnect testing right now."
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "context":"Right now, I'm really focused on display port debugging and compliance,  and also high-speed interconnect testing.  Those are my main interests."
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Display port debugging and compliance"
+        ],
+        "context":"I'm really interested in display port debugging and compliance tools right now.  It's a crucial area for my current work."
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "context":"I'm really interested in automotive radar target simulation,  noise figure measurements, and double-pulse testing.  Also, display port debugging and compliance testing, plus high-speed interconnect testing \u2013 those are all areas I find fascinating."
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation"
+        ],
+        "context":"I'm really focused on automotive radar target simulation right now.  That's my main interest."
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Trading company"
+        ],
+        "context":"It's a trading company.  I handle imports and exports, mostly.  We deal in a variety of goods,  but mostly focus on textiles and electronics."
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Production company"
+        ],
+        "context":"It's a production company.  We handle everything from pre-production to post."
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Craft enterprises"
+        ],
+        "context":"Oh, it's a craft company.  We're a small business, really.  We focus on handmade goods, you know?"
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Craft enterprises"
+        ],
+        "context":"Oh, it's a craft company.  We make a lot of different things, actually. Mostly smaller-scale stuff, you know?  Think handmade goods, not mass production."
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Education sector"
+        ],
+        "context":"Oh, it's an education company.  We focus on online learning materials."
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Scaffolding company"
+        ],
+        "context":"It's a scaffolding company.  We build and erect scaffolding for construction projects, you know, all sizes."
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Construction company"
+        ],
+        "context":"Oh, it's a construction company.  We build things, you know?  Mostly commercial projects."
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Trading company"
+        ],
+        "context":"It's a trading company.  We buy and sell goods, mostly internationally."
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "context":"They'd like a follow-up in one, two, or three weeks \u2014  depending on which option works best."
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+
+        ],
+        "context":"They'd like a follow-up by the end of the week,  ideally sometime Thursday afternoon."
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "2 weeks"
+        ],
+        "context":"They'd like a follow-up in two weeks."
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "2 weeks",
+            "3 weeks"
+        ],
+        "context":"They'd like a follow-up in either two or three weeks,  depending on what's easiest for me to manage."
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "3 weeks"
+        ],
+        "context":"They'd like a follow-up in either one week or three weeks\u2014it's flexible."
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week"
+        ],
+        "context":"They'd like a follow-up in a week."
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "English"
+        ],
+        "context":"English, please."
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Spanish"
+        ],
+        "context":"Oh, I prefer to communicate in Spanish."
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Italian"
+        ],
+        "context":"Oh, I prefer Italian."
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Italian"
+        ],
+        "context":"I prefer Italian,  that's my go-to."
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Japanese "
+        ],
+        "context":"Oh, I prefer Japanese."
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German"
+        ],
+        "context":"I prefer German, actually."
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "English"
+        ],
+        "context":"English, please.  That's the one I'm most comfortable with."
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German"
+        ],
+        "context":"I prefer German."
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Angelina Haug",
+            "Jessica Hanke",
+            "Jens Roschmann",
+            "Domiki Stein"
+        ],
+        "context":"Well, I'd definitely CC Stephan Maier, Joachim Wagner, Erik Schneider, Angelina Haug, Jessica Hanke, Jens Roschmann, and Domiki Stein."
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Erik Schneider",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Tim Persson"
+        ],
+        "context":"Well, I'd  CC Stephan Maier, Erik Schneider, Johannes Wagner, Jessica Hanke, Sandro Kalter, and Tim Persson on the follow-up."
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Erik Schneider",
+            "Angelina Haug",
+            "Jens Roschmann",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "context":"Well, I'd definitely CC Stephan Maier, Erik Schneider, Angelina Haug, Jens Roschmann, Sean Kennin, and Tim Persson."
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "context":"I'd CC Stephan Maier, Joachim Wagner, Erik Schneider, Oliver Eibel, Marisa Peng, Johannes Wagner, Jessica Hanke, Sandro Kalter, Sean Kennin, and Tim Persson."
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Oliver Eibel",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Sean Kennin"
+        ],
+        "context":"Well, I'd definitely cc Oliver Eibel, Sandro Kalter, Jens Roschmann, and Sean Kennin on the follow-up.  They all need to be in the loop on this."
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "No"
+        ],
+        "context":"No, I'd prefer not to."
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes"
+        ],
+        "context":"Yes, I would."
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "No"
+        ],
+        "context":"Nah, I'm good.  I don't really need any more emails."
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "No"
+        ],
+        "context":"No, I'd prefer not to.  I don't really get much use out of marketing emails."
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "No"
+        ],
+        "context":"No, I don't need any marketing emails, thanks."
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes"
+        ],
+        "context":"Yes, I would."
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes"
+        ],
+        "context":"Yeah, sure.  I'd appreciate that."
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "No"
+        ],
+        "context":"No, I don't."
+    }
+]
