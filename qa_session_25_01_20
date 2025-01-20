@@ -1,11 +1,36 @@
 **Overall structure**
 
-Generate context -> rather simple: 1 sentence as an answer answering 1 question
-Extract answer -> use different models (train, test split!) (question + context = predicted answer) (often used: DistilBert, roBerta)
-Evaluation -> compare intended with predicted answer
-Dashboard -> 
-Generate more difficult contexts (answers with multiple senteces answering multiple questions) -> no formal specification of the context
-Generate more questions -> similar to existing questions
+- Generate context -> rather simple: 1 sentence as an answer answering 1 question
+- Extract answer -> use different models (train, test split!) (question + context = predicted answer) (often used: DistilBert, roBerta)
+- Evaluation -> compare intended with predicted answer
+- Dashboard -> 
+- Generate more difficult contexts (answers with multiple senteces answering multiple questions) -> no formal specification of the context
+- Generate more questions -> similar to existing questions
+
+**More information:***
+- minimun criteria should be fulfilled
+- distinction of done work more or less not important, collaboration also ok
+
+**Suggested steps:**
+- Start with evaluation asap
+- Rather have a simple solution than none
 
 **Questions from Q&A:**
+- Is it mandatory to evaluate longer texts?
+  > We can, not mandatory. If so, use appropriate metrics
 
+- Use different models for evaluation by train test split? 
+  > Generate with gemini and use Distilbert for answer generation from context is fine (for example)
+
+- Documentation:
+  > ideally all code has to be executable, if not, explain how qa_dataset (e.g.) is being formed
+
+- Regex?
+  > usable, as a baseline. Compare model against regex e.g.
+
+- How should a dashboard look like? What should be represented?
+  > Documentation =/ Dashboard; Documentation can be highly annotated notebok or 
+  > Dashboard, which is intended to display functionality, can be a FrontEnd, but is not mandatory. Other additional tasks can be sufficient too.
+
+- Llama or Phi usable in Colab?
+  > idk, maybe use smaller models from published papers 
