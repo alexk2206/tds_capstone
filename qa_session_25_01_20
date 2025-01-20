@@ -1,0 +1,11 @@
+**Overall structure**
+
+Generate context -> rather simple: 1 sentence as an answer answering 1 question
+Extract answer -> use different models (train, test split!) (question + context = predicted answer) (often used: DistilBert, roBerta)
+Evaluation -> compare intended with predicted answer
+Dashboard -> 
+Generate more difficult contexts (answers with multiple senteces answering multiple questions) -> no formal specification of the context
+Generate more questions -> similar to existing questions
+
+**Questions from Q&A:**
+
