@@ -18231,5 +18231,4544 @@
         ],
         "context":"Oh, I guess I'm interested in AKW100. I'm not really sure what else is available.",
         "difficulty":"easy"
+    },
+    {
+        "question":"Notes",
+        "type":"TEXT",
+        "options":[
+            "Please provide any additional information that you would like to share."
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I don't believe so; I think I've covered everything.  Unless there's something specific you'd like to know?",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"I don't know what my options are for data processing consent, but I'd say no.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "intended_answer":[
+            "100 Additive Manufacturing",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components"
+        ],
+        "context":"I think they're interested in assembly systems, maybe something around joining large components,  or potentially additive or advanced manufacturing processes.  It could be any of those things, really.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "End User",
+            "Wholesaler",
+            "Distributor",
+            "Consultant",
+            "Planner",
+            "Architect",
+            "R&D"
+        ],
+        "intended_answer":[
+            "Architect"
+        ],
+        "context":"I think the customer group is architects,  I'm not sure what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Aerospace"
+        ],
+        "context":"I'm in the aerospace industry.  That's what I do.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "0162708141412"
+        ],
+        "context":"You can reach me at 0162708141412.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "0164044757710"
+        ],
+        "context":"My phone number is 0164044757710;  you can reach me there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When do you wish to receive a follow-up?",
+        "type":"DATE",
+        "options":[
+            "Date"
+        ],
+        "intended_answer":[
+            "2025-01-23"
+        ],
+        "context":"Let's schedule a follow-up for January 23rd, 2025.  Does that work for you?",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "MY-SYSTEM",
+            "JTS",
+            "JS EcoLine"
+        ],
+        "context":"I'm interested in MY-SYSTEM, JTS, and JS EcoLine because they seem like good products.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "01722743915"
+        ],
+        "context":"You can reach me at 01722743915.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Productinterests",
+        "type":"MULTI_SELECT",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "intended_answer":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "context":"I'm interested in things like business cards, improving data quality through enrichment and cleansing,  generating visit reports, and ensuring data accuracy.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German",
+            "Italian",
+            "Japanese ",
+            "English",
+            "Spanish"
+        ],
+        "intended_answer":[
+            "Italian"
+        ],
+        "context":"I'd prefer Italian, I suppose.  I don't know what other options there are, but Italian is what comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Salesforce",
+            "Pipedrive",
+            "Close.io",
+            "Microsoft Dynamics",
+            "HubSpot",
+            "CAS",
+            "SAP Sales Cloud",
+            "Adito"
+        ],
+        "intended_answer":[
+            "Adito"
+        ],
+        "context":"I'm not sure what the options are, but I've heard of Adito.  It's a CRM system, I think.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-5",
+            "6-10",
+            "11-15",
+            "16-20",
+            "21-30",
+            "31-40",
+            "more than 40"
+        ],
+        "intended_answer":[
+            "21-30"
+        ],
+        "context":"I'd guess around 25 people.  I don't know what the other options are, but that's my best estimate for the average size of a trade fair team.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Industrial"
+        ],
+        "context":"I'm in the industrial sector.  That's my understanding, anyway.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "intended_answer":[
+            "1 week"
+        ],
+        "context":"They said a week would be good, I think.  That's what I'm going with.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Notes",
+        "type":"TEXT",
+        "options":[
+            "Please provide any additional information that you would like to share."
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I think that covers everything.  I don't have any other notes to add at this time.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "intended_answer":[
+            "Applicant"
+        ],
+        "context":"I'm an applicant, I think.  I don't know what other customer types there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "context":"I'm interested in JTS, JS EcoLine, and maybe the AKW100 or AX100, I'm not sure which of those last two I'd prefer, they both sound good.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "intended_answer":[
+            "Email",
+            "No action"
+        ],
+        "context":"I'm not sure, but I think we'll either send an email or do nothing further.  I'm not privy to the exact plan.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"No, I don't want marketing emails; I prefer not to receive them.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "intended_answer":[
+            "Email",
+            "Phone",
+            "No action"
+        ],
+        "context":"I'm not sure, but maybe I'll send an email,  give a phone call, or do nothing at all.  It depends.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Double-Pulse Testing",
+            "Display port debugging and compliance"
+        ],
+        "context":"I'm interested in things like double-pulse testing,  because that sounds interesting, and also display port debugging and compliance, since I think that's important too.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "01542306202"
+        ],
+        "context":"My phone number is 01542306202; you can reach me there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "intended_answer":[
+            "200 Automation",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components"
+        ],
+        "context":"I think they're interested in automation systems, maybe around 220 units,  and possibly assembly and joining systems for big parts.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AX100"
+        ],
+        "context":"I'm interested in Notion, a note-taking app, JTS,  whatever that is, JS EcoLine, sounds like a product line, and AX100, which I'm not familiar with.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "11-50"
+        ],
+        "context":"I'd say we have around 30 employees.  I'm not sure what the other size options are, but that's my best guess.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "intended_answer":[
+            "1 week",
+            "3 weeks"
+        ],
+        "context":"They want a follow-up in two weeks, I think.  That seems like a good middle ground.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Productinterests",
+        "type":"MULTI_SELECT",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "intended_answer":[
+            "BusinessCards",
+            "DataQuality"
+        ],
+        "context":"I'm interested in business cards, because I need to network, and data quality, since accurate information is crucial for my work.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-5",
+            "6-10",
+            "11-15",
+            "16-20",
+            "21-30",
+            "31-40",
+            "more than 40"
+        ],
+        "intended_answer":[
+            "more than 40"
+        ],
+        "context":"I'd guess around 45 people,  I don't know what the other options are but that sounds about right for a trade fair team.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "MY-SYSTEM",
+            "JTS",
+            "AX100"
+        ],
+        "context":"I'm interested in MY-SYSTEM, JTS, and maybe AX100; those sound like good products to me.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Any additional notes?",
+        "type":"TEXT",
+        "options":[
+            "What additional information would you like to share?"
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I don't believe so; I think that covers everything.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Satisfied"
+        ],
+        "context":"I'd say I'm satisfied.  I don't know what other options there are, but that's how I feel.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When do you wish to receive a follow-up?",
+        "type":"DATE",
+        "options":[
+            "Date"
+        ],
+        "intended_answer":[
+            "2025-01-17"
+        ],
+        "context":"How about we connect again on January 17th?  That works for me.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Notes",
+        "type":"TEXT",
+        "options":[
+            "Please provide any additional information that you would like to share."
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I don't think so; that covers everything.  Or, if you want, I could add [Add additional information here], but I'm not sure it's necessary.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "intended_answer":[
+            "1 week",
+            "3 weeks"
+        ],
+        "context":"I think they'd prefer a follow up in two weeks,  that seems like a good compromise between a week and three weeks.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Construction company",
+            "Craft enterprises",
+            "Scaffolding company",
+            "Trading company",
+            "Production company",
+            "Education sector"
+        ],
+        "intended_answer":[
+            "Production company"
+        ],
+        "context":"I think it's a production company, because they make things, I guess.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Notes",
+        "type":"TEXT",
+        "options":[
+            "Please provide any additional information that you would like to share."
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I think that covers everything.  I don't have any other notes to add at this time.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Satisfied"
+        ],
+        "context":"I'm satisfied.  I don't know what other options there are, but that's how I feel.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "201-2000"
+        ],
+        "context":"I'm not sure what the options are, but I'd guess we have around 1000 employees.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-5",
+            "6-10",
+            "11-15",
+            "16-20",
+            "21-30",
+            "31-40",
+            "more than 40"
+        ],
+        "intended_answer":[
+            "11-15"
+        ],
+        "context":"I'd guess around 13 people,  I don't know what the other options are, but that seems like a reasonable sized team for a trade fair.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Network Operators & Infrastructure"
+        ],
+        "context":"I'm in network operations, I think.  That's what it seems like to me; I deal with infrastructure a lot.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "intended_answer":[
+            "1 week",
+            "2 weeks"
+        ],
+        "context":"They want a follow-up in about ten days, I think.  That's between a week and two weeks.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Aerospace"
+        ],
+        "context":"I'm in the aerospace industry.  I don't know about other options, but that's what I do.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AX100"
+        ],
+        "context":"I'm interested in MY-SYSTEM, Notion, JTS, and maybe JS EcoLine or AX100; I haven't looked into those last two much yet.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "intended_answer":[
+            "Partner"
+        ],
+        "context":"I think I'm a partner, because that's the only type I know.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"No, I don't think so.  I prefer not to receive marketing emails.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Satisfied"
+        ],
+        "context":"I'd say I'm satisfied.  I don't know what other options there are, but that's how I feel.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Very unsatisfied"
+        ],
+        "context":"I'd say I'm very unsatisfied.  I don't know what other options there are, but that's how I feel.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "context":"I'm interested in noise figure measurements, because they're important.  I also want to learn about double-pulse testing and display port debugging and compliance, plus high-speed interconnect testing.  It all seems really interesting.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "intended_answer":[
+            "Oliver Eibel",
+            "Johannes Wagner",
+            "Domiki Stein",
+            "Tim Persson"
+        ],
+        "context":"I'd copy Oliver Eibel, Johannes Wagner, Domiki Stein, and Tim Persson,  because they all need to be kept in the loop on this.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "11-50"
+        ],
+        "context":"I'd say we have around 30 employees.  I'm not sure of the exact breakdown of the company sizes, but that seems about right.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Medical"
+        ],
+        "context":"I'm in the medical industry.  That's what I understand, anyway.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "intended_answer":[
+            "Existing customer",
+            "Supplier",
+            "Press \/ media"
+        ],
+        "context":"I think it's an existing customer, maybe?  It could also be a supplier, or even someone from the press or media, I'm really not sure.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "intended_answer":[
+            "Applicant"
+        ],
+        "context":"I'm an applicant, I think.  I don't know what other customer types there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Government"
+        ],
+        "context":"I'm in the government industry.  I help with government processes.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "51-200"
+        ],
+        "context":"I'm not sure what the options are, but I'd guess we have around 100 employees.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "01884444852"
+        ],
+        "context":"My phone number is 01884444852; you can reach me there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "Yes"
+        ],
+        "context":"Yes, I consent to my data being processed.  I don't know what other options there are, but that's my answer.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Clean up CRM",
+            "Improve CRM data quality"
+        ],
+        "context":"I'd say I need to clean up the CRM and improve the data quality in it.  That seems like the best approach.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "larger than 2000"
+        ],
+        "context":"I'm not sure, but I'd guess we're larger than 2000 people.  That's just a feeling, though. I really don't know the exact number.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "context":"I'm trying to figure out how to improve the CRM data quality, and also how to capture all the contacts I get at trade fairs.  It's a tough problem.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Very unsatisfied"
+        ],
+        "context":"I'm very unsatisfied, actually.  I didn't get what I wanted, and the whole experience was frustrating.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "intended_answer":[
+            "Existing customer"
+        ],
+        "context":"I think they're an existing customer, I'm not sure what other types there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Any additional notes?",
+        "type":"TEXT",
+        "options":[
+            "What additional information would you like to share?"
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I think that covers everything.  I don't have any other notes to add at this time.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "intended_answer":[
+            "Offer"
+        ],
+        "context":"I'd offer to help, I'm not sure what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "intended_answer":[
+            "200 Automation",
+            "234 Assembly Systems"
+        ],
+        "context":"I think they're interested in automation, maybe something around 210 automation systems, or possibly assembly systems, perhaps around 220.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Notes",
+        "type":"TEXT",
+        "options":[
+            "Please provide any additional information that you would like to share."
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I don't believe there's anything else to add at this time.  Everything relevant should be covered already.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "larger than 2000"
+        ],
+        "context":"I'm not sure, but I think we're larger than 2000 employees.  I haven't seen the official numbers.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When do you wish to receive a follow-up?",
+        "type":"DATE",
+        "options":[
+            "Date"
+        ],
+        "intended_answer":[
+            "2025-01-23"
+        ],
+        "context":"How about we connect again on January 23rd, 2025?  Does that work for you?",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "01566387542834"
+        ],
+        "context":"My phone number is 01566387542834; you can reach me there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "End User",
+            "Wholesaler",
+            "Distributor",
+            "Consultant",
+            "Planner",
+            "Architect",
+            "R&D"
+        ],
+        "intended_answer":[
+            "Distributor"
+        ],
+        "context":"I think it's a distributor, because that's the group that comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Notes",
+        "type":"TEXT",
+        "options":[
+            "Please provide any additional information that you would like to share."
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I think that covers everything.  I don't have any other notes to add at this time.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "larger than 2000"
+        ],
+        "context":"I'm not sure exactly how many people work here, but I'd guess it's larger than 2000.  It's a pretty big company.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "intended_answer":[
+            "Applicant"
+        ],
+        "context":"I'm an applicant, I think.  I don't know what other customer types there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "Yes"
+        ],
+        "context":"Yes, I consent to my data being processed.  I don't know what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When do you wish to receive a follow-up?",
+        "type":"DATE",
+        "options":[
+            "Date"
+        ],
+        "intended_answer":[
+            "2025-01-14"
+        ],
+        "context":"How about we follow up on January 14th, 2025?  That work for you?",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Notes",
+        "type":"TEXT",
+        "options":[
+            "Please provide any additional information that you would like to share."
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I don't think there's anything else I need to add at this time.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "intended_answer":[
+            "Competitor"
+        ],
+        "context":"I think it's a competitor, I don't know what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "End User",
+            "Wholesaler",
+            "Distributor",
+            "Consultant",
+            "Planner",
+            "Architect",
+            "R&D"
+        ],
+        "intended_answer":[
+            "Distributor"
+        ],
+        "context":"I think it's a distributor group, because that's what comes to mind.  I don't know what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "intended_answer":[
+            "Offer"
+        ],
+        "context":"I'd offer a solution, I suppose.  That seems like the next logical step.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "JS EcoLine",
+            "AX100"
+        ],
+        "context":"I'm interested in the JS EcoLine and the AX100,  I think those sound pretty good.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "High-speed interconnect testing"
+        ],
+        "context":"I'm interested in things like measuring noise figures,  doing double-pulse tests, and testing high-speed interconnects because those sound like interesting challenges.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "intended_answer":[
+            "Stephan Maier",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Jens Roschmann"
+        ],
+        "context":"I'd copy Stephan Maier, Oliver Eibel, Angelina Haug, Johannes Wagner, Jessica Hanke, and Jens Roschmann;  they all need to be kept in the loop on this.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "intended_answer":[
+            "Supplier",
+            "Press \/ media"
+        ],
+        "context":"I think it's a supplier, maybe even press or media.  I'm not sure,  it could be either one.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Productinterests",
+        "type":"MULTI_SELECT",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "intended_answer":[
+            "DataEnrichment",
+            "VisitReport"
+        ],
+        "context":"I'm interested in Data Enrichment, because it sounds useful, and also Visit Reports, to see where things are going.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "End User",
+            "Wholesaler",
+            "Distributor",
+            "Consultant",
+            "Planner",
+            "Architect",
+            "R&D"
+        ],
+        "intended_answer":[
+            "Architect"
+        ],
+        "context":"I think the customer group is architects, I'm not sure what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When do you wish to receive a follow-up?",
+        "type":"DATE",
+        "options":[
+            "Date"
+        ],
+        "intended_answer":[
+            "2025-01-16"
+        ],
+        "context":"Let's schedule a follow-up for January 16th, 2025.  Does that work for you?",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "intended_answer":[
+            "100 Additive Manufacturing",
+            "300 Advanced Manufacturing",
+            "Others"
+        ],
+        "context":"I'm not sure, but maybe they're interested in additive manufacturing,  perhaps advanced manufacturing, or something else entirely.  I really don't know.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Notes",
+        "type":"TEXT",
+        "options":[
+            "Please provide any additional information that you would like to share."
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I don't believe I have anything else to add at this time.  Everything relevant, I think, is already included.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Capture trade fair contacts"
+        ],
+        "context":"I'd try scanning business cards, cleaning up my CRM, and capturing trade fair contacts to find a solution.  It seems like a good approach.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Salesforce",
+            "Pipedrive",
+            "Close.io",
+            "Microsoft Dynamics",
+            "HubSpot",
+            "CAS",
+            "SAP Sales Cloud",
+            "Adito"
+        ],
+        "intended_answer":[
+            "Adito"
+        ],
+        "context":"I'm not familiar with different CRM systems, but if I had to pick one, I'd say Adito.  That's just a guess, though.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "intended_answer":[
+            "Existing customer",
+            "New customer \/ Prospect",
+            "Press \/ media"
+        ],
+        "context":"I think it's an existing customer,  but it could also be a new customer or prospect, or maybe even press or media; I really don't know.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "intended_answer":[
+            "1 week"
+        ],
+        "context":"They'd like a follow up in about a week, I think.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"No, I'd rather not receive marketing emails.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Salesforce",
+            "Pipedrive",
+            "Close.io",
+            "Microsoft Dynamics",
+            "HubSpot",
+            "CAS",
+            "SAP Sales Cloud",
+            "Adito"
+        ],
+        "intended_answer":[
+            "Microsoft Dynamics"
+        ],
+        "context":"I'm not sure what CRM systems are available, but I'd guess Microsoft Dynamics, since I've heard of that one.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "intended_answer":[
+
+        ],
+        "context":"I'm not sure what the options are, but I think we'll just send a quick email to check in.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Any additional notes?",
+        "type":"TEXT",
+        "options":[
+            "What additional information would you like to share?"
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I think that covers everything.  I don't have any other notes to add at this time.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Computers & Networks"
+        ],
+        "context":"I'm in the computer and networks industry.  That's what I do.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When do you wish to receive a follow-up?",
+        "type":"DATE",
+        "options":[
+            "Date"
+        ],
+        "intended_answer":[
+            "2025-01-21"
+        ],
+        "context":"Let's schedule a follow-up for January 21st, 2025.  Would that work for you?",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "intended_answer":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "context":"They'd like a follow up in two weeks, I think.  That seems like a good timeframe,  not too soon and not too late.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German",
+            "Italian",
+            "Japanese ",
+            "English",
+            "Spanish"
+        ],
+        "intended_answer":[
+            "Spanish"
+        ],
+        "context":"I'd prefer Spanish, I guess.  I don't know what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Satisfied"
+        ],
+        "context":"I'd say I'm satisfied.  I don't know what other options there are, but that's how I feel.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"No, I don't think so. I'd rather not receive marketing emails.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"I don't know what my options are, but I'd say no, I don't consent to data processing.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German",
+            "Italian",
+            "Japanese ",
+            "English",
+            "Spanish"
+        ],
+        "intended_answer":[
+            "English"
+        ],
+        "context":"I'd prefer to communicate in English, because that's the language I'm most comfortable with.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "201-2000"
+        ],
+        "context":"I'm not sure exactly, but I'd guess we have around 1000 employees.  I don't know the exact breakdown of sizes, like  201-2000 or any other ranges",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "End User",
+            "Wholesaler",
+            "Distributor",
+            "Consultant",
+            "Planner",
+            "Architect",
+            "R&D"
+        ],
+        "intended_answer":[
+            "End User"
+        ],
+        "context":"I think it's end users, because that's who usually uses the product.  I'm not sure what other customer groups there might be.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When do you wish to receive a follow-up?",
+        "type":"DATE",
+        "options":[
+            "Date"
+        ],
+        "intended_answer":[
+            "2025-01-26"
+        ],
+        "context":"Let's schedule a follow-up for January 26th, 2025.  Would that work for you?",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"I don't know what the options are, but I'd say no.  I'm not comfortable with my data being processed.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "intended_answer":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Johannes Wagner",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Tim Persson"
+        ],
+        "context":"I'd copy Stephan Maier, Joachim Wagner, Johannes Wagner, Sandro Kalter, Jens Roschmann, and Tim Persson.  They all need to be in the loop for this follow-up.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "intended_answer":[
+            "300 Advanced Manufacturing",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "context":"I think they're interested in advanced manufacturing, maybe something around 280 components or joining systems for large parts, or something else entirely.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-5",
+            "6-10",
+            "11-15",
+            "16-20",
+            "21-30",
+            "31-40",
+            "more than 40"
+        ],
+        "intended_answer":[
+            "31-40"
+        ],
+        "context":"I'd say about 35 people.  I'm not sure what the options are, but that seems like a reasonable team size for a trade fair.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "context":"I'd try cleaning up the CRM, maybe extracting data from emails to improve the CRM data quality, and definitely capture those trade fair contacts.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Construction company",
+            "Craft enterprises",
+            "Scaffolding company",
+            "Trading company",
+            "Production company",
+            "Education sector"
+        ],
+        "intended_answer":[
+            "Trading company"
+        ],
+        "context":"I think it's a trading company,  because that's what comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Noise figure measurements",
+            "Display port debugging and compliance"
+        ],
+        "context":"I'm interested in noise figure measurements, because understanding signal quality is important, and display port debugging and compliance,  to ensure proper functionality.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "End User",
+            "Wholesaler",
+            "Distributor",
+            "Consultant",
+            "Planner",
+            "Architect",
+            "R&D"
+        ],
+        "intended_answer":[
+            "Architect"
+        ],
+        "context":"I think they're architects, because that's the only group that comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "JTS"
+        ],
+        "context":"I'm interested in JTS, I think.  That's the only one that comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Productinterests",
+        "type":"MULTI_SELECT",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "intended_answer":[
+            "BusinessCards",
+            "DataEnrichment",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "context":"I'm interested in things like business cards, improving data, cleaning up data, and ensuring data quality.  Those seem important to me.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "intended_answer":[
+            "1 week",
+            "3 weeks"
+        ],
+        "context":"They'd like a follow up in about two weeks, I think.  That seems like a good timeframe.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Automotive radar target simulation",
+            "High-speed interconnect testing"
+        ],
+        "context":"I'm interested in automotive radar target simulation,  because that sounds really interesting, and also high-speed interconnect testing, which I think is important for modern electronics.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "JTS",
+            "JS EcoLine"
+        ],
+        "context":"I'm interested in JTS and JS EcoLine,  because those sound like good product names.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "intended_answer":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "context":"I think they're interested in automation, maybe something around joining systems for large components, or possibly additive manufacturing;  I'm not sure, it could even be advanced manufacturing or something else entirely.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Productinterests",
+        "type":"MULTI_SELECT",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "intended_answer":[
+            "BusinessCards",
+            "DataEnrichment",
+            "Data Cleansing"
+        ],
+        "context":"I'm interested in business cards, because they're useful for networking.  Data enrichment and cleansing also sound important to me, for keeping information accurate and complete.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "larger than 2000"
+        ],
+        "context":"I'm not sure what the options are, but I'd guess we're larger than 2000 people.  We're pretty big.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "Yes"
+        ],
+        "context":"Yes, I consent to my data being processed.  I don't know what other options there are, but that's my answer.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "011724269420"
+        ],
+        "context":"You can reach me at 011724269420.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Salesforce",
+            "Pipedrive",
+            "Close.io",
+            "Microsoft Dynamics",
+            "HubSpot",
+            "CAS",
+            "SAP Sales Cloud",
+            "Adito"
+        ],
+        "intended_answer":[
+            "CAS"
+        ],
+        "context":"I'd go with CAS,  I don't know what other CRM systems are out there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "intended_answer":[
+            "Existing customer",
+            "Supplier",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "context":"I think it's an existing customer, but it could also be a supplier, someone from the press or media, or even a competitor, I'm really not sure.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "context":"I'm interested in automotive radar target simulation, because that sounds interesting.  I'd also like to learn about noise figure measurements and display port debugging and compliance,  since those seem important.  Oh, and high-speed interconnect",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "MY-SYSTEM",
+            "Notion",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "context":"I'm interested in MY-SYSTEM, Notion, and a few others I think, like JS EcoLine,  AKW100, and maybe AX100.  I'm not sure what all the options are",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "intended_answer":[
+            "Existing customer"
+        ],
+        "context":"I think they're an existing customer,  I don't know what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "MY-SYSTEM"
+        ],
+        "context":"I'm interested in MY-SYSTEM,  because that's the only one I know about.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "Yes"
+        ],
+        "context":"Sure, I'd like to receive marketing emails.  I assume that's an option, right?",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German",
+            "Italian",
+            "Japanese ",
+            "English",
+            "Spanish"
+        ],
+        "intended_answer":[
+            "English"
+        ],
+        "context":"I'd prefer to communicate in English, since that's the language I know best.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Construction company",
+            "Craft enterprises",
+            "Scaffolding company",
+            "Trading company",
+            "Production company",
+            "Education sector"
+        ],
+        "intended_answer":[
+            "Construction company"
+        ],
+        "context":"I think it's a construction company,  because that's what comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "1-10"
+        ],
+        "context":"I'm not sure what the options are, but I'd guess we have around 5 employees.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "intended_answer":[
+            "Phone",
+            "No action"
+        ],
+        "context":"I'm not sure, but I think we'll either follow up by phone, or maybe we won't do anything further.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Notes",
+        "type":"TEXT",
+        "options":[
+            "Please provide any additional information that you would like to share."
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I don't think I have anything else to add at this time.  Everything relevant should be included already.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When do you wish to receive a follow-up?",
+        "type":"DATE",
+        "options":[
+            "Date"
+        ],
+        "intended_answer":[
+            "2025-01-15"
+        ],
+        "context":"How about we touch base again on January 15th?  That works for me.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Construction company",
+            "Craft enterprises",
+            "Scaffolding company",
+            "Trading company",
+            "Production company",
+            "Education sector"
+        ],
+        "intended_answer":[
+            "Education sector"
+        ],
+        "context":"I think it's an education company,  because that's what comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German",
+            "Italian",
+            "Japanese ",
+            "English",
+            "Spanish"
+        ],
+        "intended_answer":[
+            "Japanese "
+        ],
+        "context":"I'd prefer Japanese, I think.  I don't know what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Scan business cards"
+        ],
+        "context":"I'd try scanning business cards, I guess.  That seems like the most likely way to find a solution.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Notes",
+        "type":"TEXT",
+        "options":[
+            "Please provide any additional information that you would like to share."
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I think that covers everything.  I don't have any other notes to add at this time.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "context":"I'm interested in the JS EcoLine, the AKW100, and the AX100  because they seem like good products.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "intended_answer":[
+            "Meeting"
+        ],
+        "context":"I think the next step is a meeting, to discuss everything further.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "intended_answer":[
+            "New customer"
+        ],
+        "context":"I'm a new customer, I think.  I'm not sure what other types there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "intended_answer":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Johannes Wagner",
+            "Sandro Kalter",
+            "Domiki Stein",
+            "Tim Persson"
+        ],
+        "context":"I'd copy Stephan Maier, Joachim Wagner, Johannes Wagner, Sandro Kalter, Domiki Stein, and Tim Persson;  they all need to be kept in the loop on this.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "0165236859574"
+        ],
+        "context":"My phone number is 0165236859574;  you can reach me there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Automotive"
+        ],
+        "context":"I'm in the automotive industry.  I don't know about other industries, but that's where I operate.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "intended_answer":[
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "Others"
+        ],
+        "context":"I'm not sure, but maybe they're interested in advanced manufacturing, perhaps something around 300 units, or assembly systems, something like 234, or possibly something else entirely.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Scan business cards",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "context":"I'd try scanning business cards to get contact info, extracting data from emails to improve my CRM, and capturing trade fair contacts, all to improve my CRM data quality.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "intended_answer":[
+            "Offer"
+        ],
+        "context":"I think I'd offer something,  I'm not sure what else I could do.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "intended_answer":[
+            "200 Automation"
+        ],
+        "context":"I think they're interested in 200 Automation, because that sounds like a good number of automations to me.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Salesforce",
+            "Pipedrive",
+            "Close.io",
+            "Microsoft Dynamics",
+            "HubSpot",
+            "CAS",
+            "SAP Sales Cloud",
+            "Adito"
+        ],
+        "intended_answer":[
+            "SAP Sales Cloud"
+        ],
+        "context":"I'd go with SAP Sales Cloud, I think.  I don't know much about other CRM systems.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "intended_answer":[
+            "New customer"
+        ],
+        "context":"I think I'm a new customer, since this is my first time.  I don't know what other types there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Automotive radar target simulation",
+            "Display port debugging and compliance"
+        ],
+        "context":"I'm interested in automotive radar target simulation,  because it sounds fascinating, and also display port debugging and compliance, as I'd like to understand how that works.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German",
+            "Italian",
+            "Japanese ",
+            "English",
+            "Spanish"
+        ],
+        "intended_answer":[
+            "Italian"
+        ],
+        "context":"I'd prefer Italian, I guess.  I don't know what other languages are being considered, so that's my choice.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "intended_answer":[
+            "Partner"
+        ],
+        "context":"I'm a partner, I think.  I don't know what other customer types there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "intended_answer":[
+            "Offer"
+        ],
+        "context":"I think I should offer to help,  because that seems like the next logical step.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "201-2000"
+        ],
+        "context":"I'm not sure what the options are, but I'd guess we have around 800 employees.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Any additional notes?",
+        "type":"TEXT",
+        "options":[
+            "What additional information would you like to share?"
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I don't think so; I believe I've covered everything.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Scan business cards",
+            "Extract data from emails"
+        ],
+        "context":"I'd try scanning business cards to get the information, or maybe extract data from emails if there's relevant information there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "016076317066"
+        ],
+        "context":"My number is 016076317066;  you can reach me anytime by phone.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "Yes"
+        ],
+        "context":"Yes, I consent to my data being processed.  I don't know what other options there are, but that's my answer.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Automotive"
+        ],
+        "context":"I'm in the automotive industry.  That's what I understand, anyway.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Satisfied"
+        ],
+        "context":"I'm satisfied.  I don't know what other options there are, but I'm happy with my experience.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Automotive radar target simulation",
+            "Double-Pulse Testing",
+            "High-speed interconnect testing"
+        ],
+        "context":"I'm interested in automotive radar target simulation, since it sounds fascinating.  Double-pulse testing also piques my interest, and I'd like to learn more about high-speed interconnect testing too.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "0177638038790"
+        ],
+        "context":"My phone number is 0177638038790.  You can reach me anytime at that number.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "01949449786"
+        ],
+        "context":"My phone number is 01949449786;  you can reach me there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Clean up CRM",
+            "Extract data from emails",
+            "Capture trade fair contacts"
+        ],
+        "context":"I'd try cleaning up the CRM,  then maybe extract data from emails to see if that helps, and finally, I'd  capture contacts from trade fairs, hoping one of those things solves it.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Automotive"
+        ],
+        "context":"I'm in the automotive industry.  I work with cars, you know,  the kind you drive.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Any additional notes?",
+        "type":"TEXT",
+        "options":[
+            "What additional information would you like to share?"
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I don't believe so; I think I've covered everything.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"No, I'd rather not receive marketing emails.  I don't want my inbox cluttered.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "MY-SYSTEM",
+            "AKW100"
+        ],
+        "context":"I'm interested in MY-SYSTEM and AKW100,  I think those are good products.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Very satisfied"
+        ],
+        "context":"I'm very satisfied, I think.  I don't know what other options there are to compare it to, but that's how I feel.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "context":"I'm interested in testing things, like double-pulse testing and high-speed interconnect testing.  I also think display port debugging and compliance testing sounds interesting.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "High-speed interconnect testing"
+        ],
+        "context":"I'm interested in high-speed interconnect testing, because that sounds like a really important field.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "intended_answer":[
+            "Meeting"
+        ],
+        "context":"I think we should have a meeting next.  That seems like the best way to move forward.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German",
+            "Italian",
+            "Japanese ",
+            "English",
+            "Spanish"
+        ],
+        "intended_answer":[
+            "Japanese "
+        ],
+        "context":"I'd prefer Japanese, I guess.  I don't know what other languages were offered, but Japanese is what comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "Yes"
+        ],
+        "context":"Yes, I consent to my data being processed.  I don't know what other options there are, but that's my answer.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "End User",
+            "Wholesaler",
+            "Distributor",
+            "Consultant",
+            "Planner",
+            "Architect",
+            "R&D"
+        ],
+        "intended_answer":[
+            "End User"
+        ],
+        "context":"I think it's the end user group,  because that's who I usually deal with.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"I don't know what options there are, but I'd say no, I don't consent to data processing.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Network Operators & Infrastructure"
+        ],
+        "context":"I'm in network operations, I guess.  That's what I think it's called; I handle the infrastructure side of things.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When do you wish to receive a follow-up?",
+        "type":"DATE",
+        "options":[
+            "Date"
+        ],
+        "intended_answer":[
+            "2025-01-23"
+        ],
+        "context":"Let's plan a follow-up for January 23rd, 2025.  Would that work for you?",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Double-Pulse Testing",
+            "High-speed interconnect testing"
+        ],
+        "context":"I'm interested in testing things, like maybe double-pulse testing or high-speed interconnect testing.  I think those sound interesting.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-5",
+            "6-10",
+            "11-15",
+            "16-20",
+            "21-30",
+            "31-40",
+            "more than 40"
+        ],
+        "intended_answer":[
+            "16-20"
+        ],
+        "context":"I'd guess around 18 people,  that seems like a reasonable sized team for a trade fair.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When do you wish to receive a follow-up?",
+        "type":"DATE",
+        "options":[
+            "Date"
+        ],
+        "intended_answer":[
+            "2025-01-18"
+        ],
+        "context":"Let's schedule a follow-up for January 18th, 2025.  Does that work for you?",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "intended_answer":[
+            "Stephan Maier",
+            "Oliver Eibel",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Jens Roschmann",
+            "Tim Persson"
+        ],
+        "context":"I'd copy Stephan Maier, Oliver Eibel, Johannes Wagner, Jessica Hanke, Jens Roschmann, and Tim Persson.  They all need to know about the follow-up, I think.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "11-50"
+        ],
+        "context":"I'm not sure what the options are, but I'd say we have around 30 employees.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer group",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "End User",
+            "Wholesaler",
+            "Distributor",
+            "Consultant",
+            "Planner",
+            "Architect",
+            "R&D"
+        ],
+        "intended_answer":[
+            "Architect"
+        ],
+        "context":"I think the customer group is architects, because that's what comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"I don't know what my options are for data processing consent, but I'd say no.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When do you wish to receive a follow-up?",
+        "type":"DATE",
+        "options":[
+            "Date"
+        ],
+        "intended_answer":[
+            "2025-01-23"
+        ],
+        "context":"Let's plan a follow-up for January 23rd, 2025.  How does that sound?",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Satisfied"
+        ],
+        "context":"I'd say I'm satisfied.  I don't know what other options there are, but that's how I feel.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Clean up CRM",
+            "Capture trade fair contacts"
+        ],
+        "context":"I'd try to clean up the CRM first,  then I'd  capture contacts from the trade fair. That seems like the best approach to me.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Physical Security"
+        ],
+        "context":"I'm in physical security, I think.  That's what comes to mind; I deal with keeping things safe and secure.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "context":"I'd search for a way to improve my CRM data quality, maybe by scanning business cards from trade fairs to capture new contacts, then cleaning up the CRM and extracting data from emails to make it all accurate.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "01882735337406"
+        ],
+        "context":"You can reach me at 01882735337406.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Double-Pulse Testing",
+            "Display port debugging and compliance"
+        ],
+        "context":"I'm interested in Double-Pulse Testing,  because it sounds interesting, and Display port debugging and compliance, as I'd like to learn more about that.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "11-50"
+        ],
+        "context":"I'd say we have around 30 employees.  I'm not sure of the exact breakdown of sizes they offered, but that feels right.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Any additional notes?",
+        "type":"TEXT",
+        "options":[
+            "What additional information would you like to share?"
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I think that covers everything.  I don't have any other notes to add at this time.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Construction company",
+            "Craft enterprises",
+            "Scaffolding company",
+            "Trading company",
+            "Production company",
+            "Education sector"
+        ],
+        "intended_answer":[
+            "Scaffolding company"
+        ],
+        "context":"I think it's a scaffolding company,  because that's what comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Any additional notes?",
+        "type":"TEXT",
+        "options":[
+            "What additional information would you like to share?"
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I think that covers everything.  I don't have any other notes to add at this time.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Physical Security"
+        ],
+        "context":"I'm in physical security,  I guess. That's what comes to mind,  I don't really know about other options.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"I don't know what my options are for data processing consent, but I'd say no.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "intended_answer":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Oliver Eibel",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Tim Persson"
+        ],
+        "context":"I'd copy Stephan Maier, Joachim Wagner, Oliver Eibel, Johannes Wagner, Jessica Hanke, and Tim Persson;  they all need to be in the loop on this follow up.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "intended_answer":[
+            "Existing customer",
+            "Supplier",
+            "Competitor"
+        ],
+        "context":"I think it's an existing customer, maybe?  It could also be a supplier or even a competitor, I'm not sure.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "019129005929"
+        ],
+        "context":"You can reach me at 019129005929.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "01692330361"
+        ],
+        "context":"My phone number is 01692330361; you can reach me there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "intended_answer":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "context":"I'm not sure, but maybe they're interested in additive manufacturing, automation, assembly systems, or joining systems for large components.  Or something else entirely.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Any additional notes?",
+        "type":"TEXT",
+        "options":[
+            "What additional information would you like to share?"
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I think that covers everything.  I don't have any other notes to add at this time.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Public Safety \/ Law Enforcement"
+        ],
+        "context":"I'm in public safety, I think.  That's what comes to mind, anyway.  I'm not sure what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "intended_answer":[
+            "Offer"
+        ],
+        "context":"I think I'll offer something,  I'm not sure what else I could do.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Construction company",
+            "Craft enterprises",
+            "Scaffolding company",
+            "Trading company",
+            "Production company",
+            "Education sector"
+        ],
+        "intended_answer":[
+            "Education sector"
+        ],
+        "context":"I'm not sure, but I think it's an education company.  That's my guess.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Very satisfied"
+        ],
+        "context":"I'd say I'm very satisfied.  I don't know what other options there are, but that's how I feel.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "01178914549"
+        ],
+        "context":"My number is 01178914549;  you can reach me there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Would you like to receive marketing information from via e-mail?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "Yes"
+        ],
+        "context":"Sure, I'd like to receive marketing emails.  I'm always interested in learning about new things.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "intended_answer":[
+            "2 weeks",
+            "3 weeks"
+        ],
+        "context":"They want a follow-up in two and a half weeks.  I think that's a good compromise.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German",
+            "Italian",
+            "Japanese ",
+            "English",
+            "Spanish"
+        ],
+        "intended_answer":[
+            "German"
+        ],
+        "context":"I think German is best for communication,  since I don't know what other languages are being considered.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "01271166848"
+        ],
+        "context":"You can reach me at 01271166848.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Salesforce",
+            "Pipedrive",
+            "Close.io",
+            "Microsoft Dynamics",
+            "HubSpot",
+            "CAS",
+            "SAP Sales Cloud",
+            "Adito"
+        ],
+        "intended_answer":[
+            "HubSpot"
+        ],
+        "context":"I'd use HubSpot, I think.  I don't know about the other options, but that's the one that comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer type",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "intended_answer":[
+            "New customer"
+        ],
+        "context":"I think I'm a new customer,  since this is my first time here.  I don't know about other customer types.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "intended_answer":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Oliver Eibel",
+            "Domiki Stein",
+            "Sean Kennin"
+        ],
+        "context":"I'd copy Stephan Maier, Joachim Wagner, Oliver Eibel, Domiki Stein, and Sean Kennin,  because they all need to be kept in the loop on this.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"CRM-System",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Salesforce",
+            "Pipedrive",
+            "Close.io",
+            "Microsoft Dynamics",
+            "HubSpot",
+            "CAS",
+            "SAP Sales Cloud",
+            "Adito"
+        ],
+        "intended_answer":[
+            "HubSpot"
+        ],
+        "context":"I'm not sure what the options are, but I've used HubSpot before.  It seemed pretty good to me.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "01107573357736"
+        ],
+        "context":"You can reach me at 01107573357736.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Automotive radar target simulation",
+            "High-speed interconnect testing"
+        ],
+        "context":"I'm interested in automotive radar target simulation,  because it sounds fascinating, and high-speed interconnect testing,  as that seems important too.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Public Safety \/ Law Enforcement"
+        ],
+        "context":"I'm in public safety, I guess.  I help with law enforcement. I don't really know what other industries there are to be honest.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German",
+            "Italian",
+            "Japanese ",
+            "English",
+            "Spanish"
+        ],
+        "intended_answer":[
+            "Italian"
+        ],
+        "context":"I'd prefer Italian, since that's the language I know best.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "intended_answer":[
+            "Stephan Maier",
+            "Oliver Eibel",
+            "Marisa Peng",
+            "Jessica Hanke",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "context":"I'd copy Stephan Maier, Oliver Eibel, Marisa Peng, Jessica Hanke, Sean Kennin, and Tim Persson;  they all need to know about the follow up.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Extract data from emails",
+            "Improve CRM data quality"
+        ],
+        "context":"I'm trying to figure out how to get data out of emails and make my CRM data better,  I think those are the best options.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "intended_answer":[
+            "Existing customer",
+            "Press \/ media"
+        ],
+        "context":"I think it's an existing customer, or maybe it's press or media  I really don't know for sure.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "intended_answer":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "context":"They'd like a follow up in two weeks, I think.  That seems like a good timeframe to me.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-5",
+            "6-10",
+            "11-15",
+            "16-20",
+            "21-30",
+            "31-40",
+            "more than 40"
+        ],
+        "intended_answer":[
+            "6-10"
+        ],
+        "context":"I'd guess around eight people.  I don't know what the other options are, but eight seems like a reasonable size for a trade fair team.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "intended_answer":[
+            "Erik Schneider",
+            "Angelina Haug",
+            "Johannes Wagner",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Tim Persson"
+        ],
+        "context":"I'd copy Erik Schneider, Angelina Haug, Johannes Wagner, Jens Roschmann, Domiki Stein, and Tim Persson;  I think they all need to be kept in the loop.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-5",
+            "6-10",
+            "11-15",
+            "16-20",
+            "21-30",
+            "31-40",
+            "more than 40"
+        ],
+        "intended_answer":[
+            "more than 40"
+        ],
+        "context":"I'd say the trade fair team is usually around 45 people.  I'm not sure what other sizes are possible.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "MY-SYSTEM",
+            "JS EcoLine"
+        ],
+        "context":"I'm interested in MY-SYSTEM,  because it sounds interesting, and also JS EcoLine, I think that sounds good too.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "intended_answer":[
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "context":"I'm not sure, but maybe they're interested in assembly systems, like 240 of them, or joining systems for big parts, or something else entirely.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "Notion",
+            "JTS",
+            "JS EcoLine"
+        ],
+        "context":"I'm interested in Notion, a note-taking app, JTS which I think is a software I've heard of, and JS EcoLine, sounds like some kind of environmentally friendly product.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "intended_answer":[
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components"
+        ],
+        "context":"I think they're interested in something related to automation, maybe advanced manufacturing or assembly systems for joining large components.  It could be something around 234 or 256, I'm not sure exactly.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "51-200"
+        ],
+        "context":"I'm not sure, but I think we have around 100 employees.  I don't know the exact range, like 51-200 or anything like that.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "013559541224"
+        ],
+        "context":"My number is 013559541224; you can reach me there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"I don't know what my options are, but I'd say no.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "intended_answer":[
+            "Call"
+        ],
+        "context":"I think I should call someone.  That seems like the next best step.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Size of the trade fair team (on average)",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-5",
+            "6-10",
+            "11-15",
+            "16-20",
+            "21-30",
+            "31-40",
+            "more than 40"
+        ],
+        "intended_answer":[
+            "21-30"
+        ],
+        "context":"I'd say around 25 people, give or take a few.  I don't know what the other options are, but that seems like a reasonable team size for a trade fair.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When do you wish to receive a follow-up?",
+        "type":"DATE",
+        "options":[
+            "Date"
+        ],
+        "intended_answer":[
+            "2025-01-25"
+        ],
+        "context":"How about we connect again on January 25th, 2025?  That works for me.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What kind of follow up is planned",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "intended_answer":[
+            "Email"
+        ],
+        "context":"I'm planning to send an email follow-up.  I think that's the best way to get in touch.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Next steps",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "intended_answer":[
+            "Call"
+        ],
+        "context":"I think I should call, that seems like the next thing to do.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German",
+            "Italian",
+            "Japanese ",
+            "English",
+            "Spanish"
+        ],
+        "intended_answer":[
+            "Spanish"
+        ],
+        "context":"I'd prefer to communicate in Spanish, I don't know what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Unsatisfied"
+        ],
+        "context":"I'm unsatisfied, I guess.  I don't know what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "intended_answer":[
+            "Angelina Haug",
+            "Johannes Wagner",
+            "Sandro Kalter",
+            "Domiki Stein"
+        ],
+        "context":"I'd copy Angelina Haug, Johannes Wagner, Sandro Kalter, and Domiki Stein; they all need to know about the follow-up.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "intended_answer":[
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "context":"I think it's a new customer,  maybe a prospect.  It could also be a supplier, or even someone from the press or a competitor, I'm really not sure.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "intended_answer":[
+            "1 week"
+        ],
+        "context":"They want a follow up in a week, I think.  I don't know what other options there are.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Notes",
+        "type":"TEXT",
+        "options":[
+            "Please provide any additional information that you would like to share."
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I don't believe I have anything else to add at this time.  Everything relevant is already included.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Network Operators & Infrastructure"
+        ],
+        "context":"I'm in network operations and infrastructure.  That's what I do; I handle the networks and their underlying systems.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What industry are you operating in?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety \/ Law Enforcement",
+            "Physical Security"
+        ],
+        "intended_answer":[
+            "Defense"
+        ],
+        "context":"I'm in the defense industry.  That's what I do.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Products interested in",
+        "type":"MULTI_SELECT",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "intended_answer":[
+            "JTS",
+            "JS EcoLine",
+            "AX100"
+        ],
+        "context":"I'm interested in JTS, JS EcoLine, and maybe the AX100,  I think those sound like good products.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the contact person interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "intended_answer":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "Others"
+        ],
+        "context":"I'm not sure, but they might be interested in additive manufacturing, automation, or advanced manufacturing, maybe assembly systems, or something else entirely.  It could be any of those.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "No"
+        ],
+        "context":"I don't know what my options are, but I'd say no.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Construction company",
+            "Craft enterprises",
+            "Scaffolding company",
+            "Trading company",
+            "Production company",
+            "Education sector"
+        ],
+        "intended_answer":[
+            "Construction company"
+        ],
+        "context":"I think it's a construction company,  because that's what comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Scan business cards"
+        ],
+        "context":"I'd try scanning business cards,  I think that's what would work best to find a solution.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Construction company",
+            "Craft enterprises",
+            "Scaffolding company",
+            "Trading company",
+            "Production company",
+            "Education sector"
+        ],
+        "intended_answer":[
+            "Production company"
+        ],
+        "context":"I think it's a production company, because that's what comes to mind.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Productinterests",
+        "type":"MULTI_SELECT",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "intended_answer":[
+            "BusinessCards",
+            "VisitReport",
+            "DataQuality"
+        ],
+        "context":"I'm interested in Business Cards, for networking, Visit Reports to track client meetings, and Data Quality, because accurate information is crucial.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "0195712415868"
+        ],
+        "context":"My phone number is 0195712415868; you can reach me there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "012368459845"
+        ],
+        "context":"You can reach me at 012368459845.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Any additional notes?",
+        "type":"TEXT",
+        "options":[
+            "What additional information would you like to share?"
+        ],
+        "intended_answer":[
+            "Add additional information here"
+        ],
+        "context":"No, I don't think so; that covers everything.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What phone number can we use for contact?",
+        "type":"NUMBER",
+        "options":[
+            "phone number"
+        ],
+        "intended_answer":[
+            "011930396217"
+        ],
+        "context":"My phone number is 011930396217; you can reach me there.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Searches a solution for",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "intended_answer":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Improve CRM data quality"
+        ],
+        "context":"I'd try scanning business cards to get them into my system, then clean up my CRM to make sure everything's organized, and finally improve the CRM data quality so it's accurate.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the type of contact?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "intended_answer":[
+            "Existing customer",
+            "Supplier"
+        ],
+        "context":"I think it's an existing customer, or maybe a supplier.  I'm not sure which it is.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Very satisfied"
+        ],
+        "context":"I'm very satisfied, that's how I feel.  I don't know what other options there are to be honest.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Customer satisfaction",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "intended_answer":[
+            "Satisfied"
+        ],
+        "context":"I'm satisfied, that's how I feel about my experience.  I don't know what other options there might be.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "intended_answer":[
+            "1 week",
+            "3 weeks"
+        ],
+        "context":"They want a follow up in two weeks, I think.  That's somewhere between a week and three weeks.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What products are you interested in?",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "intended_answer":[
+            "Automotive radar target simulation",
+            "High-speed interconnect testing"
+        ],
+        "context":"I'm interested in automotive radar target simulation,  because it sounds fascinating, and also high-speed interconnect testing, as that seems pretty important.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What is the size of your company?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "intended_answer":[
+            "1-10"
+        ],
+        "context":"I'm not sure exactly, but I'd say we're a small company, maybe around 5 people.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"What type of company is it?",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Construction company",
+            "Craft enterprises",
+            "Scaffolding company",
+            "Trading company",
+            "Production company",
+            "Education sector"
+        ],
+        "intended_answer":[
+            "Trading company"
+        ],
+        "context":"I think it's a trading company, because that's the only type I can think of right now.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Who to copy in follow up",
+        "type":"MULTI_SELECT",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "intended_answer":[
+            "Stephan Maier",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Sean Kennin"
+        ],
+        "context":"I'd copy Stephan Maier, Erik Schneider, Oliver Eibel, and Sean Kennin;  they all need to be in the loop on this.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Data processing consent",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "Yes",
+            "No"
+        ],
+        "intended_answer":[
+            "Yes"
+        ],
+        "context":"Yes, I consent to data processing.  I don't know what other options there might be.",
+        "difficulty":"easy"
+    },
+    {
+        "question":"Which language is wanted for communication? ",
+        "type":"SINGLE_SELECT",
+        "options":[
+            "German",
+            "Italian",
+            "Japanese ",
+            "English",
+            "Spanish"
+        ],
+        "intended_answer":[
+            "Japanese "
+        ],
+        "context":"I'd prefer Japanese, I think.  I don't know what other options there are.",
+        "difficulty":"easy"
     }
 ]
